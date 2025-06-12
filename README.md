@@ -19,8 +19,8 @@ GymPass Style app.
 ## RNs - Regras de negócio (business rules)
 
 - [x] Email must be unique
-- [ ] User can only use one check-in per day
-- [ ] User can only make a check-in if near the gym (200m)
+- [x] User can only use one check-in per day
+- [x] User can only make a check-in if near the gym (100m)
 - [ ] Check-in can only be validated before 20min after created.
 - [ ] Check-in can only be validated by admin role user
 - [ ] Only admin can create a gym
