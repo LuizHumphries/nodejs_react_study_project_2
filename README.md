@@ -13,7 +13,7 @@ GymPass Style app.
 - [ ] User can search gym by name
 - [x] User can check-in in a academy
 - [ ] Gym can validate user check-in
-- [ ] A user can create an gym / register a gym
+- [x] A user can create an gym / register a gym
 ...
 
 ## RNs - Regras de negócio (business rules)
